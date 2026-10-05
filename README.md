@@ -4,7 +4,7 @@ An Elixir application that keeps a town's non-player characters, its game clock 
 
 ## What it is for
 
-Callers spawn, update, list and despawn characters, and the clock advances game time on a tick. Both are described as JSON-LD through RDF context schemas. Persistence is a stub, and the characters have no behaviour of their own yet. `decisions/` holds the design record.
+Callers spawn, update, list and despawn characters, and the clock advances when called; it has no tick and is a stub, like persistence. Both are described as JSON-LD through RDF context schemas. The characters have no behaviour of their own yet. `decisions/` holds the design record.
 
 ## Build and run
 
