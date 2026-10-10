@@ -13,4 +13,4 @@ Callers spawn, update, list and despawn characters, and the clock advances when 
 
 ## Licence
 
-MIT, as the SPDX headers in the source state.
+MIT. See [LICENSE](LICENSE).
